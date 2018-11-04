@@ -106,7 +106,7 @@ footer {
   color: #cccccc;
   text-align: center;
   background: #666666;
-  border-top: 8px solid #4aaaa5;
+  border-top: 8px solid wheat;
   height: 50px;
 }
 
@@ -162,9 +162,9 @@ h3, h2 {
   margin-bottom: 0;
   font-weight: 300;
   line-height: 30px;
-  color: #ffffff;
+  color: black;
   text-align: center;
-  background: #4aaaa5;
+  background: wheat;
   border-bottom: 0;
 }
 
@@ -173,7 +173,7 @@ h3, h2 {
   width: 200px;
   height: auto;
   margin-top: 10px;
-  margin-right: 25px;
+  margin-right: 50px;
 }
 
 /* contact page */
@@ -210,9 +210,9 @@ textarea {
 input[type=submit] {
   padding: 10px 30px;
   font-size: 18px;
-  color: #ffffff;
+  color: black;
   cursor: pointer;
-  background: #4aaaa5;
+  background: wheat;
   border: 0 none;
 }
 
